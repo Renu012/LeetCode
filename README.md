@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Renu012/LeetCode/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -26,4 +27,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Renu012/LeetCode/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
