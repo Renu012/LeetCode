@@ -17,6 +17,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Renu012/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Renu012/LeetCode/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
 ## Recursion
