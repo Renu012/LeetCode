@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Renu012/LeetCode/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Renu012/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renu012/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renu012/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renu012/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
