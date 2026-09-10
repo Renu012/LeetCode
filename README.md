@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Renu012/LeetCode/tree/master/0001-two-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Renu012/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renu012/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3903-smallest-stable-index-i](https://github.com/Renu012/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +74,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Renu012/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Renu012/LeetCode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
