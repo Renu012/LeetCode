@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Renu012/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Renu012/LeetCode/tree/master/0050-powx-n) |
+| [0172-factorial-trailing-zeroes](https://github.com/Renu012/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Renu012/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0866-prime-palindrome](https://github.com/Renu012/LeetCode/tree/master/0866-prime-palindrome) |
