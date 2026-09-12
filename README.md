@@ -23,6 +23,7 @@
 | [0050-powx-n](https://github.com/Renu012/LeetCode/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/Renu012/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
+| [0343-integer-break](https://github.com/Renu012/LeetCode/tree/master/0343-integer-break) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Renu012/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0866-prime-palindrome](https://github.com/Renu012/LeetCode/tree/master/0866-prime-palindrome) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0343-integer-break](https://github.com/Renu012/LeetCode/tree/master/0343-integer-break) |
 <!---LeetCode Topics End-->
