@@ -24,6 +24,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Renu012/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Renu012/LeetCode/tree/master/0258-add-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Renu012/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0866-prime-palindrome](https://github.com/Renu012/LeetCode/tree/master/0866-prime-palindrome) |
 | [3871-count-commas-in-range-ii](https://github.com/Renu012/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Renu012/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +81,8 @@
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Renu012/LeetCode/tree/master/3903-smallest-stable-index-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
