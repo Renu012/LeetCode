@@ -27,6 +27,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Renu012/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0556-next-greater-element-iii](https://github.com/Renu012/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0866-prime-palindrome](https://github.com/Renu012/LeetCode/tree/master/0866-prime-palindrome) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Renu012/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3871-count-commas-in-range-ii](https://github.com/Renu012/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0343-integer-break](https://github.com/Renu012/LeetCode/tree/master/0343-integer-break) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Renu012/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
