@@ -8,6 +8,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Renu012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Renu012/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Renu012/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3024-type-of-triangle](https://github.com/Renu012/LeetCode/tree/master/3024-type-of-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/Renu012/LeetCode/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
@@ -30,6 +31,7 @@
 | [0866-prime-palindrome](https://github.com/Renu012/LeetCode/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Renu012/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Renu012/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3024-type-of-triangle](https://github.com/Renu012/LeetCode/tree/master/3024-type-of-triangle) |
 | [3871-count-commas-in-range-ii](https://github.com/Renu012/LeetCode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
@@ -97,4 +99,12 @@
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Renu012/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Renu012/LeetCode/tree/master/3024-type-of-triangle) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Renu012/LeetCode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
